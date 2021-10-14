@@ -1,0 +1,18 @@
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1pMjcrf6sEJ4JgPgAVHFD2k5EFsOr6iBkq6140x_d_7E' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1pMjcrf6sEJ4JgPgAVHFD2k5EFsOr6iBkq6140x_d_7E" -O HS307_Sociology && rm -rf /tmp/cookies.txt
+
+1pMjcrf6sEJ4JgPgAVHFD2k5EFsOr6iBkq6140x_d_7E
+
+1kvTroVHZScgu1pLQ_XZTUYS2ACLED9-W0cXO6OKj9_s
+
+
+1kvTroVHZScgu1pLQ_XZTUYS2ACLED9-W0cXO6OKj9_s
+
+
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1kvTroVHZScgu1pLQ_XZTUYS2ACLED9-W0cXO6OKj9_s'-O 'HS307_Sociology'
+
+https://docs.google.com/presentation/d/1Dh9uI_5jgwxNhaA7hDRIeVMMVOSB51eQ/edit?usp=sharing&ouid=111563499698516718334&rtpof=true&sd=true
+
+
+https://docs.google.com/document/d/1Jb1EAvYgSi8iFwWOhCbhKsxUBH0uNUzK3puA778hdO0/edit?usp=sharing
+
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1Jb1EAvYgSi8iFwWOhCbhKsxUBH0uNUzK3puA778hdO0' -O 'MyProject.docx'
